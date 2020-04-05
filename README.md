@@ -1,6 +1,6 @@
 # Machine-Learning-model-for-Pima-Indians-Diabetes-Database
 
-- This problem statement took from 10 Standard Datasets for Practicing Applied Machine Learning.
+- This problem statement has taken from 10 Standard Datasets for Practicing Applied Machine Learning.
 - The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.
 - Basically, this is a machine learning model implemented in python which is based on Pima Indians Diabetes Database.
 - As we can see this falls under classification category therefore, this machine learning model is based on Random Forest Classifier 
